@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.tomZ {
+    margin-top: 40px;
+
+}
+
+.text1{
+margin-top: 28px;
+}
+
+.text {
+    display: inline-block;
+    color: #ffff;
+    margin-top: 100px;       
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+}
+
+.text2 {
+    margin-top: -50px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #ABB2BF;
+}
+
+.button {
+    margin-top: 10px;
+    width: 148px;
+    height: 37px;
+    border-style: solid;
+    border-color: #C778DD;
+    background-color:#1E1E1E;
+    color: #ffff;
+}
+
+.Portfolio{
+    display: inline-block;
+    color: white;
+}
+
+.portR {
+    margin-left: 30px;
+    margin-top:-10px;
+    width:400px;
+    height: 40px;
+    border: 0.5px;
+    border-style: solid;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+
+}
+.port {
+    margin-left: 40px;
+    margin-top:-24px;
+}
+
+.ongo {
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.web {
+    color:#C778DD;
+    display: inline-block;
+}
+.front {
+    color:#C778DD;
+}
+
+.Huree {
+    margin-top: 800px;
+    margin-right:-200px;
+    width:600px;
+    height: 40px;
+    border: 0.5px;
+    border-style: solid;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+}

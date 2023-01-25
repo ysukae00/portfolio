@@ -1,0 +1,43 @@
+.Huree {
+    width:600px;
+    height:80px;
+    border: 0.5px;
+    border-style: solid;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+    margin-top: 110px;
+    margin-left: 140px;
+}
+
+.hureetext {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 31px;
+    text-align: center;
+}
+
+.doodhuree {
+    width:200px;
+    height:60px;
+    border: 0.5px;
+    border-style: solid;
+    border-top: none;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+    margin-top: 28px;
+    margin-left: 399px;
+
+}
+
+.hureetext2 {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+    text-align: center;
+}
