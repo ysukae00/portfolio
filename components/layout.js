@@ -1,5 +1,5 @@
-import Container from './Container';
-import Header from './Header';
+import Container from './container';
+import Header from './header';
 import Image from 'next/image';
 import Footer from './footer';
 import styles from './footer.module.css'

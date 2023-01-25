@@ -19,14 +19,14 @@ function Main() {
                 <Image width={457} height={386} src="/avatar.svg"/>
                 <section className={styles.portR}>
                 <Image className={styles.ongo} width={16} height={16} src="Rectangle 27.svg"/>
-                    <div className={styles.port}>
-                    Currently working on <div className={styles.Portfolio}>Portfolio</div></div>
+                    <div className={styles.port}>Currently working on <div className={styles.Portfolio}>Portfolio</div>
+                    </div>
                 </section>
                 <section>
-                    <DoodHuree/>
+                <DoodHuree/>
                 </section>
                 <section>
-                    <Project/>
+                <Project/>
                 </section>
             </div>
         </section>
