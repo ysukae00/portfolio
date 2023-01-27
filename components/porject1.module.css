@@ -1,0 +1,59 @@
+.porjectTom {
+    margin-top: 48px;
+    width:331px;
+    height: 440px;
+    border: 0.5px;
+    border-style: solid;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+}
+
+.HTML {
+    margin-left: 10px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;;
+}
+
+.HHH{
+    margin-left: 10px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.HHH2{
+    margin-left: 10px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+}
+
+.button1{
+    margin-left: 10px;
+    width: 120px;
+    height: 32px;
+    border-style: solid;
+    border-color: #C778DD;
+    background-color:#1E1E1E;
+    color: #ffff;
+}
+.button2{
+    margin-left: 10px;
+    width: 120px;
+    height: 32px;
+    border-style: solid;
+    border-color: #C778DD;
+    background-color:#1E1E1E;
+    color: #ffff;
+}

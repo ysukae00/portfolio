@@ -1,8 +1,6 @@
 import Image from 'next/image';
 import styles from './main.module.css'
 import {useRouter} from 'next/router';
-import DoodHuree from './doodHuree';
-import Project from './project';
 function Main() {
     const router = useRouter();
     return (
@@ -21,12 +19,6 @@ function Main() {
                 <Image className={styles.ongo} width={16} height={16} src="Rectangle 27.svg"/>
                     <div className={styles.port}>Currently working on <div className={styles.Portfolio}>Portfolio</div>
                     </div>
-                </section>
-                <section>
-                <DoodHuree/>
-                </section>
-                <section>
-                <Project/>
                 </section>
             </div>
         </section>
