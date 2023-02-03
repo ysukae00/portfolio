@@ -1,0 +1,78 @@
+.Contact {
+    margin-top: 140px;
+    display: flex;
+}
+
+.pro {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+.text{
+    margin-top: 45px;
+    width: 505px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+}
+
+.tom {
+    display: flex;
+}
+
+.border{
+    margin-top:50px;
+    margin-left: 300px;
+    width: 200px;
+    height: 140px;
+    border: 0.5px;
+    border-style: solid;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+}
+
+.text2 {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+    padding-left: 14px;
+}
+
+.text3 {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+    margin-top:-50px;
+    margin-left:50px;
+}
+
+.text4 {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+    margin-top:-14px;
+    margin-left:50px;
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    margin-left: 14px;
+    margin-top: 26px;
+}
+

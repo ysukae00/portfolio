@@ -1,0 +1,36 @@
+.aboutContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.About {
+    margin-top: 140px;
+    display: flex;
+}
+
+.pro {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+
+.text{
+    margin-top:50px;
+    position: absolute;
+    width: 515px;
+    height: 252px;
+    top: 2081px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+}
+
+.img {
+    margin-top: 80px;
+}

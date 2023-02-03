@@ -23,6 +23,7 @@ function Layout(props) {
           <Header />
           <main>{children}</main>
         </Container>
+        
         <hr className = {styles.Hr}/>
         <Container>
           <Footer />

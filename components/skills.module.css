@@ -14,5 +14,50 @@
 
 .img1 {
     margin-top: 50px;
-    margin-left: -150px;
+    margin-left: -130px;
+}
+.img2 {
+    margin-left:-340px;
+    margin-top: -50px;
+}
+
+.img3 {
+    margin-left: -320px;
+    margin-top: 60px;
+}
+.img4 {
+    margin-left: -160px;
+    margin-top: -140px;
+}
+.img5 {
+    margin-top:-18px;
+    margin-left: -60px;
+}
+
+.Language {
+    margin-top:68px;
+    margin-left: 100px;
+    width: 184px;
+    height: 103px;
+    border: 0.5px;
+    border-style: solid;
+    background-color: #1E1E1E;
+    border-color: #ABB2BF;
+    color: #ABB2BF;
+}
+
+.lan {
+    margin-top:6px;
+    margin-bottom:6px;
+    margin-left: 6px;
+}
+.lan2 {
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+    margin-left: 6px;
+    margin-top: 6px;
 }

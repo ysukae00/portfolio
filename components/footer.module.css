@@ -1,3 +1,62 @@
 .Hr {
-    margin-top: 1000px;
+    margin-top: 128px;
+}
+
+.textContainer{
+    display: flex;
+}
+.text1{
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31px;
+    color: #ffff;
+    margin-top:24px;
+    margin-left: 4px;
+}
+
+.text2{
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #ABB2BF;
+    margin-top: 30px;
+    margin-left: 32PX;
+}
+
+.text3{
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin-top:-16px;
+}
+
+.text4{
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    color: #FFFFFF;
+    margin-left: 620px;
+    margin-top: 24px;
+}
+
+
+.img {
+    margin-left: 618px;
+    margin-top:12px;
+
+}
+
+.footer{
+    color: #ABB2BF;
+    text-align: center;
+    margin-top: 48px;
 }
